@@ -1,6 +1,7 @@
 # server-starter-code
 
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
+Project Instructions: https://docs.google.com/document/d/1pdR-B9PstJ8vqCyTBULzv-pJdbYxwG7m/edit?rtpof=true&sd=true
 
 ### Prerequisites
 - Install PostgreSQL (Postgres) [[link](https://www.postgresql.org/download/)] - required to run the database
