@@ -1,3 +1,9 @@
+## Group Members:
+- Leyla Tuon: leylatuon
+- Brian Hong: bh9232
+- Jeffrey Li: lijeffrey02
+- Samuel Fang: SamuelFang
+
 # server-starter-code
 
 This repository is the server (back-end) starter code for Final Project (CRUD Application).
